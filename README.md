@@ -49,19 +49,17 @@ A modern **3D game** developed using **Unity 3D** and **C#**, featuring immersiv
 ## Home Screen
 
 ```
-(Add Screenshot Here)
+
 ```
 
 ## Gameplay
 
 ```
-(Add Gameplay Screenshot Here)
 ```
 
 ## Game Over
 
 ```
-(Add Screenshot Here)
 ```
 
 ---
